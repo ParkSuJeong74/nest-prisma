@@ -68,6 +68,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
+## Running DB with Docker compose 
+```shell
+$ docker compose up dev-db -d
+```
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
